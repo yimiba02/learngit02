@@ -6,4 +6,8 @@ new
 oh my god
 shit
 123456
+<<<<<<< HEAD
 I & you
+=======
+I & you
+>>>>>>> featurel
